@@ -29,4 +29,4 @@ When I can no longer code I look at my fish. ![Picture of my koi fish](./fishy.p
 
 I used `git` to finish this website
 
-[Back to Top](./)
+[fishy fishy](./fishy.png)
